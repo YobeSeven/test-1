@@ -1,0 +1,15 @@
+//* Variable
+// @import "./variables";
+@import "./_ourVariables.sass";
+
+//* Fonts
+@import "./fonts";
+
+//? Bootstrap
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+//? Fontawesome
+@import "../../node_modules/@fortawesome/fontawesome-free/css/all.css";
+
+//! My Modules 
+@import "./modules/allModules";
